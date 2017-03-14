@@ -1,6 +1,6 @@
 # ThugLifeImgCreator
 
-####This Python Script takes normal Image as input and returns ThugLifeImage. Change path inside script to read image that you want to convert and you are done.
+#### This Python Script takes normal Image as input and returns ThugLifeImage. Change path inside script to read image that you want to convert and you are done.
 
 ### Requirements :
 1. Download and install [OpenCV](http://opencv.org/downloads.html).
